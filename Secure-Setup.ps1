@@ -1,4 +1,5 @@
 <#
+.DESCRIPTION
     Automates basic security hardening with comprehensive logging, error handling, and validation
 #>
 
